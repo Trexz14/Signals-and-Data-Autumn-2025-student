@@ -1,3 +1,8 @@
+
+# Any pycache and ipynb checkpoints files
+**/__pycache__/*
+**/.ipynb_checkpoints
+
 # Any saved models, presumably some kind of NN will be in these folders... 
 *saved_models/
 
