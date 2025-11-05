@@ -1,7 +1,10 @@
 
+# Reviews data present in week 7 ~250Mb
+week_7/data/Reviews.csv
+
 # Any pycache and ipynb checkpoints files
 **/__pycache__/*
-**/.ipynb_checkpoints/*
+**/.ipynb_checkpoints/
 
 # Any saved models, presumably some kind of NN will be in these folders... 
 *saved_models/
